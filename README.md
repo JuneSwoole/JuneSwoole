@@ -9,6 +9,9 @@ This is a teeny-weeny swoole framework
 - redis 7.0+
 
 ### Installation
+```
+composer require juneswoole/juneswoole
+```
 
 #### Docs
 **Swoole** (https://wiki.swoole.com/)
